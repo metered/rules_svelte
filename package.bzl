@@ -13,7 +13,3 @@ def rules_svelte_dependencies():
     package_json = "@build_bazel_rules_svelte//internal:package.json",
     yarn_lock = "@build_bazel_rules_svelte//internal:yarn.lock",
   )
-
-
-
- 
